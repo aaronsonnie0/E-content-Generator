@@ -20,4 +20,6 @@ An AI-powered mobile application that generates e-learning materials, quizzes, a
 ### 👨‍💻 Team Lead
 - **Karivaradhan**
 
+Figma design link- https://www.figma.com/design/wIWMU6flxohNGDB3ABPZsE/Untitled?node-id=65-109&t=skN7yiEYhy5HK7z3-1
+
 Happy Learning! 🚀
