@@ -11,4 +11,13 @@ An AI-powered mobile application that generates e-learning materials, quizzes, a
 - **Multimodal Support** – Accepts text, images, and speech inputs.
 - **Progress Tracking** – Monitors quiz performance and study habits.
 
+## 🏆 Team Members
+- **Aaron Sonnie**
+- **Sona Daison**
+- **Karivaradhan**
+- **Singapuram Thrithwik**
+
+### 👨‍💻 Team Lead
+- **Karivaradhan**
+
 Happy Learning! 🚀
